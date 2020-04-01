@@ -5,7 +5,7 @@ In software engineering, a Design Pattern describes an established solution to t
 
 No. | Type | Go to File
 ------------ | ------------- | -------------
-01 | Singleton | [come here!](https://github.com/Ardith24/Creational-Pattern/tree/master/SingletonPattern/src/singletonpattern) |
+01 | Singleton | :rocket [come here!](https://github.com/Ardith24/Creational-Pattern/tree/master/SingletonPattern/src/singletonpattern) |
 02 | Factory Method | available soon |
 03 | Abstract Factory | available soon |
 04 | Builder | available soon |

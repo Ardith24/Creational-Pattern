@@ -1,9 +1,9 @@
 # Creational-Pattern
-*01 Singleton
-*02 Factory Method
-*03 Abstract Factory
-*04 Builder
-First Header | Second Header
+
+No. | Type
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+01 | Singleton
+02 | Content column 2
+03 | Factory Method
+02 | Abstract Factory
+03 | Builder

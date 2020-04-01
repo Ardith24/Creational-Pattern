@@ -26,12 +26,12 @@ Creational Design Patterns address this issue by decoupling the client entirely 
 
 
 
-### 3. Singleton Design Pattern
+## 3. Singleton Design Pattern
 The Singleton Design Pattern aims to keep a check on initialization of objects of a particular class by ensuring that only one instance of the object exists throughout the Java Virtual Machine.
 
 A Singleton class also provides one unique global access point to the object so that each subsequent call to the access point returns only that particular object.
 
-#### 3.1 When to Use Singleton Design Pattern
+### 3.1 When to Use Singleton Design Pattern
     - For resources that are expensive to create (like database connection objects)
     - It's good practice to keep all loggers as Singletons which increases performance
     - Classes which provide access to configuration settings for the application
@@ -39,10 +39,10 @@ A Singleton class also provides one unique global access point to the object so 
 
 
 
-### 4 Builder Design Pattern
+## 4 Builder Design Pattern
 The original Builder Design Pattern introduced by GoF focuses on abstraction and is very good when dealing with complex objects, however, the design is a little complicated.
 
-#### 4.1 When to Use Singleton Design Pattern
+### 4.1 When to Use Singleton Design Pattern
     - When the process involved in creating an object is extremely complex, with lots of mandatory and optional parameters
     - When an increase in the number of constructor parameters leads to a large list of constructors
     - When client expects different representations for the object that's constructed

@@ -29,11 +29,11 @@ The Singleton Design Pattern aims to keep a check on initialization of objects o
 
 A Singleton class also provides one unique global access point to the object so that each subsequent call to the access point returns only that particular object.
 
-    #### 2.1.1 When to Use Singleton Design Pattern
-        - For resources that are expensive to create (like database connection objects)
-        - It's good practice to keep all loggers as Singletons which increases performance
-        - Classes which provide access to configuration settings for the application
-        - Classes that contain resources that are accessed in shared mode
+#### 2.1.1 When to Use Singleton Design Pattern
+    - For resources that are expensive to create (like database connection objects)
+    - It's good practice to keep all loggers as Singletons which increases performance
+    - Classes which provide access to configuration settings for the application
+    - Classes that contain resources that are accessed in shared mode
 
 # References
 [www.baeldung.com - Introduction to Creational Design Patterns](https://www.baeldung.com/creational-design-patterns#introduction)

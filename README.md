@@ -42,7 +42,7 @@ A Singleton class also provides one unique global access point to the object so 
 ## 4 Builder Design Pattern
 The original Builder Design Pattern introduced by GoF focuses on abstraction and is very good when dealing with complex objects, however, the design is a little complicated.
 
-### 4.1 When to Use Singleton Design Pattern
+### 4.1 When to Use Builder Design Pattern
     - When the process involved in creating an object is extremely complex, with lots of mandatory and optional parameters
     - When an increase in the number of constructor parameters leads to a large list of constructors
     - When client expects different representations for the object that's constructed
